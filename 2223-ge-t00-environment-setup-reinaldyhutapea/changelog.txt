@@ -1,0 +1,1 @@
+Saya telah menyalin code pada Task 1 ke T00_01.c dan menjalankan program ber-output Aloha! pada Task 2.

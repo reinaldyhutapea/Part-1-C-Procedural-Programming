@@ -1,0 +1,11 @@
+mencoba code baru yang telah didiskusikan
+mencoba mengubah kode pada bagian grade
+menghapus bagian emt untuk grade untuk menganalisa kesalahan
+menambah char "|" pada format program output
+menghapus salah satu format "|"
+menambahkan parameter _grade pada fungsi create_enrollment
+menghilangkan parameter tambahan untuk grade
+menambah format tahun dsb pada bagian print_enrollment
+mengubah "\n" menjadi "|"
+menambah output printf untuk case 2
+mengoreksi bagian enrollment karena banyak yang salah

@@ -1,0 +1,9 @@
+Pengerjaan pertama kali 
+menggunakan scanf pada task 1
+mengganti urutan program scanf dan prinf
+mengerjakan task 2 dan mengganti kesalahan %d menjadi %f    
+mengerjakan task 3 dengan left shift
+mencoba ulang
+mengganti unsigned short menjadi char
+Memperbaiki susunan scanf dan prinf
+Menghilangkan printf karna output jadi berbeda

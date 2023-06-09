@@ -1,0 +1,6 @@
+Pengerjaan T01.01 dengan metode switch case
+Mengganti "Desember" menjadi "December" dan mengganti "New Year" menjadi "New year"
+Mengganti "June" menjadi "May"
+Mencoba t01.02 dengan metode sederhana
+segala cara dicoba pada t02 namun nihil, dan menjadi sakit kepala
+mencoba pekerjaan pair yang juga sakit kepala
